@@ -1,0 +1,6 @@
+framework module Pods_FMDBSample_FMDBSampleUITests {
+  umbrella header "Pods-FMDBSample-FMDBSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
